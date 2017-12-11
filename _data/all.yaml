@@ -73,11 +73,11 @@ lectures:
     subtopic: REINFORCE for text
   - topic:
     subtopic: Discrete VAEs
-  - topic:
+  - topic: Dynamic Networks
     subtopic: Training with Search
   - topic:
     subtopic: Neural Module Networks
-  - topic: More NMT
+  - topic: NMT
     subtopic: Recent advances in NMT
   - topic:
     subtopic: Unsupervised NMT
@@ -85,6 +85,6 @@ lectures:
   - topic: Topics
     subtopic: Latent Variable Models in Science
   - topic:
-    subtopic:  Visualizing Language
+    subtopic:  Latent Variable Models in Vision
   - topic:
     subtopic:  Visualizing Language
