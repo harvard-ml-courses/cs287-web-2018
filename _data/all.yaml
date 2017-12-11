@@ -37,7 +37,7 @@ lectures:
     subtopic: Encoding
   - topic:
     subtopic: Attention
-    hw: Transduction Due
+    hw: Modeling Due
     papers:
     section:
     demos:
@@ -72,4 +72,6 @@ lectures:
   - topic:
     subtopic: Visualizing Language
   - topic:
-    subtopic: Project Workshop
+    subtopic: Project Workshop 1
+  - topic:
+    subtopic: Project Workshop 2
