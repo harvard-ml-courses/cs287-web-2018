@@ -65,10 +65,10 @@ lectures:
     subtopic: Sequence VAEs
     hw:
   - topic:
-    subtopic: Structured VAEs
+    subtopic: Sampling Improvements
     hw: VI Due, Final Project Topics
   - topic:
-    subtopic: Better VAE Training
+    subtopic: Structured VAEs
   - topic: Discrete Variables
     subtopic: REINFORCE for text
   - topic:
@@ -87,5 +87,7 @@ lectures:
     subtopic: Latent Variable Models in Science
   - topic:
     subtopic:  Latent Variable Models in Vision
-  - topic:
+  - topic: Interpretation
     subtopic:  Visualizing Language
+  - topic:
+    subtopic:  Rationale Generation
