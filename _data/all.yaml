@@ -35,14 +35,14 @@ lectures:
   - topic: Sequence Transduction
   - topic:
     subtopic: "Applications: Attention and Translation"
-    hw: Language Modeling Due
+    hw: Transduction Due
     papers: "<a href='https://arxiv.org/abs/1409.0473'>Neural Machine Translation by Jointly Learning to Align and Translate
 </a>  <a href='https://arxiv.org/pdf/1706.03762.pdf'>Attention is All You Need</a>"
     section:
     demos:
   - topic:
   - topic: Variational Inference
-    hw: Translation Due
+    hw: Transduction Due
   - topic:
     subtopic: Projects Poster Session (11:30am-2:30pm, Pierce 301)
     hw: <a href="https://canvas.harvard.edu/courses/29707/assignments/184040">Final Report</a> (Due Mon, Dec 11) <a href="https://github.com/harvard-ml-courses/cs281-f17-homework/blob/master/project/example.pdf">(example)</a>
