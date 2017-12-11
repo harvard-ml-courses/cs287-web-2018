@@ -54,6 +54,7 @@ lectures:
     demos:
   - topic: Other Latent Variable Techniques
     subtopic: GANs
+    hw: VI Due
   - topic:
     subtopic: REINFORCE
   - topic: Midterm
