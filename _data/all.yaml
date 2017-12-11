@@ -74,11 +74,11 @@ lectures:
   - topic:
     subtopic: Recent advances in NMT
   - topic:
+    subtopic: Unsupervised NMT
+  - topic:
     subtopic: Project Workshop 1
   - topic:
     subtopic: Project Workshop 2
-  - topic:
-    subtopic: Unsupervised NMT
   - topic:
     subtopic: Latent Variable Models in Science
   - topic:
