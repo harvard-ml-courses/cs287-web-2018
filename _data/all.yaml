@@ -34,7 +34,7 @@ lectures:
     section:
     demos:
   - topic: Sequence Transduction
-    subtopic: Encoders
+    subtopic: Encoding
   - topic:
     subtopic: Attention
     hw: Transduction Due
@@ -42,7 +42,7 @@ lectures:
     section:
     demos:
   - topic:
-    subtopic: Beam Search and SMC
+    subtopic: Search
   - topic: Variational Inference
     hw: Transduction Due
   - topic:
