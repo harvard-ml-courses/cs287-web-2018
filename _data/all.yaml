@@ -66,4 +66,8 @@ lectures:
   - topic:
     subtopic: Neural Module Networks
   - topic:
+    subtopic: Visualizing Language
+  - topic:
+    subtopic: Visualizing RNNs
+  - topic:
     subtopic: Visualizing RNNs
