@@ -45,7 +45,7 @@ lectures:
     subtopic: Search
   - topic: Variational Inference
     hw: Transduction Due
-    subtopic: VI Basics
+    subtopic: Basics
   - topic:
     subtopic: VAEs
     hw:
