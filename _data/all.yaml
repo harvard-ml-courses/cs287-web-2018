@@ -68,10 +68,14 @@ lectures:
   - topic:
     subtopic: REINFORCE for text
   - topic:
-    subtopic: Neural Module Networks
+    subtopic: Better VAE Training
   - topic:
     subtopic: Visualizing Language
   - topic:
     subtopic: Project Workshop 1
   - topic:
     subtopic: Project Workshop 2
+  - topic:
+    subtopic: Latent Variable Models in Science
+  - topic:
+    subtopic: Neural Module Networks
