@@ -45,9 +45,10 @@ lectures:
     subtopic: Search
   - topic: Variational Inference
     hw: Transduction Due
+    subtopic: VI Basics
   - topic:
-    subtopic: Projects Poster Session (11:30am-2:30pm, Pierce 301)
-    hw: <a href="https://canvas.harvard.edu/courses/29707/assignments/184040">Final Report</a> (Due Mon, Dec 11) <a href="https://github.com/harvard-ml-courses/cs281-f17-homework/blob/master/project/example.pdf">(example)</a>
+    subtopic: VAEs
+    hw:
     papers:
     section:
     demos:
