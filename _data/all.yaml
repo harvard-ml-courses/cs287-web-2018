@@ -13,34 +13,36 @@ ohs:
 
 lectures:
   - topic: Sequence Classification
-    subtopic:
+    subtopic: Bag-of-Words
     hw:
     papers:
     section:
     demos:
   - topic:
-    subtopic:
+    subtopic: Convolutions
     hw:
     papers:
     section:
     demos:
   - topic: Sequence Modeling
     hw: Classification Due.
+    subtopic: Feed Forward NNs
   - topic:
-    subtopic:
+    subtopic: RNNs
     hw:
     papers:
     section:
     demos:
   - topic: Sequence Transduction
+    subtopic: Encoders
   - topic:
-    subtopic: "Applications: Attention and Translation"
+    subtopic: Attention
     hw: Transduction Due
-    papers: "<a href='https://arxiv.org/abs/1409.0473'>Neural Machine Translation by Jointly Learning to Align and Translate
-</a>  <a href='https://arxiv.org/pdf/1706.03762.pdf'>Attention is All You Need</a>"
+    papers:
     section:
     demos:
   - topic:
+    subtopic: Beam Search and SMC
   - topic: Variational Inference
     hw: Transduction Due
   - topic:
