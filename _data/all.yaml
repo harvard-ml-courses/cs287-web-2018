@@ -68,20 +68,26 @@ lectures:
     subtopic: Structured VAEs
     hw: VI Due, Final Project Topics
   - topic:
+    subtopic: Better VAE Training
+  - topic:
     subtopic: REINFORCE for text
   - topic:
-    subtopic: Better VAE Training
+    subtopic: Discrete VAEs
   - topic:
     subtopic: Recent advances in NMT
   - topic:
-    subtopic: Unsupervised NMT
-  - topic:
     subtopic: Project Workshop 1
+    hw: Project Abstract Due
   - topic:
     subtopic: Project Workshop 2
   - topic:
+    subtopic: Unsupervised NMT
+  - topic:
     subtopic: Latent Variable Models in Science
+    hw: Tutorials Due
   - topic:
     subtopic: Neural Module Networks
   - topic:
     subtopic: Visualizing Language
+  - topic:
+    subtopic:
