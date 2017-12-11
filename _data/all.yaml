@@ -25,6 +25,7 @@ lectures:
     section:
     demos:
   - topic: Language Modeling
+    hw: Classification Due.
   - topic:
     subtopic:
     hw:
@@ -34,7 +35,7 @@ lectures:
   - topic: Translation
   - topic:
     subtopic: "Applications: Attention and Translation"
-    hw:
+    hw: Language Modeling Due
     papers: "<a href='https://arxiv.org/abs/1409.0473'>Neural Machine Translation by Jointly Learning to Align and Translate
 </a>  <a href='https://arxiv.org/pdf/1706.03762.pdf'>Attention is All You Need</a>"
     section:
