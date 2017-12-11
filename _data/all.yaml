@@ -20,12 +20,12 @@ lectures:
     demos:
   - topic:
     subtopic: Convolutions
-    hw:
+    hw: Classification Due.
     papers:
     section:
     demos:
   - topic: Sequence Modeling
-    hw: Classification Due.
+    hw:
     subtopic: Feed Forward NNs
   - topic:
     subtopic: RNNs
@@ -37,13 +37,13 @@ lectures:
     subtopic: Encoding
   - topic:
     subtopic: Attention
-    hw:
+    hw: Modeling Due
     papers:
     section:
     demos:
   - topic:
     subtopic: Search
-    hw: Modeling Due
+    hw:
   - topic: Variational Inference
     hw:
     subtopic: Basics
