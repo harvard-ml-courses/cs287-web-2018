@@ -12,7 +12,7 @@ ohs:
 
 
 lectures:
-  - topic: Classification
+  - topic: Sequence Classification
     subtopic:
     hw:
     papers:
@@ -24,7 +24,7 @@ lectures:
     papers:
     section:
     demos:
-  - topic: Language Modeling
+  - topic: Sequence Modeling
     hw: Classification Due.
   - topic:
     subtopic:
@@ -32,7 +32,7 @@ lectures:
     papers:
     section:
     demos:
-  - topic: Translation
+  - topic: Sequence Transduction
   - topic:
     subtopic: "Applications: Attention and Translation"
     hw: Language Modeling Due
