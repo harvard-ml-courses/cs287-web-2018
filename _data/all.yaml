@@ -63,10 +63,10 @@ lectures:
     hw:
   - topic:
     subtopic: Sequence VAEs
-    hw: VI Due
+    hw:
   - topic:
     subtopic: Structured VAEs
-    hw: Final Project Topics
+    hw: VI Due, Final Project Topics
   - topic:
     subtopic: REINFORCE for text
   - topic:
