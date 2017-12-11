@@ -52,11 +52,12 @@ lectures:
     papers:
     section:
     demos:
-  - topic:
+  - topic: Other Latent Variable Techniques
     subtopic: GANs
+  - topic:
+    subtopic: REINFORCE
   - topic: Midterm
-  - topic: Presentations
-    subtopic: REINFORCE for text
+    subtopic:
     hw:
   - topic:
     subtopic: Sequence VAEs
@@ -64,10 +65,10 @@ lectures:
     subtopic: Structured VAEs
     hw: Final Project Topics
   - topic:
+    subtopic: REINFORCE for text
+  - topic:
     subtopic: Neural Module Networks
   - topic:
     subtopic: Visualizing Language
   - topic:
-    subtopic: Visualizing RNNs
-  - topic:
-    subtopic: Visualizing RNNs
+    subtopic:
