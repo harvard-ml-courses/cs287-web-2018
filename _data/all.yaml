@@ -53,7 +53,7 @@ lectures:
     section:
     demos:
   - topic:
-    subtopic: Recent MT Results
+    subtopic: GANs
   - topic: Midterm
   - topic: Presentations
     subtopic: Attention is All You Need
@@ -64,6 +64,6 @@ lectures:
     subtopic: Structured VAEs
     hw: Final Project Topics
   - topic:
-    subtopic:
+    subtopic: Neural Module Networks
   - topic:
     subtopic: Visualizing RNNs
