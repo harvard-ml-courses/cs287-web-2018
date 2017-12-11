@@ -73,6 +73,7 @@ lectures:
     subtopic: REINFORCE for text
   - topic:
     subtopic: Discrete VAEs
+    hw: Project Abstract Due
   - topic: Dynamic Networks
     subtopic: Training with Search
   - topic:
@@ -81,7 +82,7 @@ lectures:
     subtopic: Recent advances in NMT
   - topic:
     subtopic: Unsupervised NMT
-    hw: Project Abstract Due
+    hw:
   - topic: Topics
     subtopic: Latent Variable Models in Science
   - topic:
