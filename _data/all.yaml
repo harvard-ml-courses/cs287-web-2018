@@ -55,8 +55,11 @@ lectures:
   - topic:
     subtopic: Recent MT Results
   - topic: Midterm
+  - topic: Recent Results
+    subtopic:
+    hw:
   - topic:
-  - topic:
+    subtopic:
   - topic:
     hw: Final Project Topics
   - topic:
