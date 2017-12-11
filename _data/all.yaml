@@ -39,9 +39,9 @@ lectures:
 </a>  <a href='https://arxiv.org/pdf/1706.03762.pdf'>Attention is All You Need</a>"
     section:
     demos:
-  - topic: Generation
   - topic:
   - topic:
+  - topic: Variational Inference
     subtopic: Projects Poster Session (11:30am-2:30pm, Pierce 301)
     hw: <a href="https://canvas.harvard.edu/courses/29707/assignments/184040">Final Report</a> (Due Mon, Dec 11) <a href="https://github.com/harvard-ml-courses/cs281-f17-homework/blob/master/project/example.pdf">(example)</a>
     papers:
