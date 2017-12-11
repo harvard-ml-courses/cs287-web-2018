@@ -72,12 +72,16 @@ lectures:
   - topic:
     subtopic: Better VAE Training
   - topic:
-    subtopic: Visualizing Language
+    subtopic: Recent advances in NMT
   - topic:
     subtopic: Project Workshop 1
   - topic:
     subtopic: Project Workshop 2
   - topic:
+    subtopic: Unsupervised NMT
+  - topic:
     subtopic: Latent Variable Models in Science
   - topic:
     subtopic: Neural Module Networks
+  - topic:
+    subtopic: Visualizing Language
