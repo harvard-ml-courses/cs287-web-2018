@@ -55,11 +55,15 @@ lectures:
   - topic:
     subtopic: Recent MT Results
   - topic: Midterm
-  - topic: Recent Results
-    subtopic:
+  - topic: Presentations
+    subtopic: Attention is All You Need
     hw:
   - topic:
-    subtopic:
+    subtopic: Sequence VAEs
   - topic:
+    subtopic: Structured VAEs
     hw: Final Project Topics
   - topic:
+    subtopic:
+  - topic:
+    subtopic: Visualizing RNNs
