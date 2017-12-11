@@ -1,28 +1,13 @@
 tas:
   - name: <a href="mailto:markgoldstein@g.harvard.edu">Mark</a>
-  - name: <a href="mailto:rachitsingh@college.harvard.edu">Rachit</a>
-  - name: <a href="mailto:dengyuntian@seas.harvard.edu">Yuntian</a>
-  - name: <a href="mailto:zhiruihu@g.harvard.edu">Zhirui</a>
-  - name: <a href="mailto:hshan@g.harvard.edu">Haozhe</a>
-  - name: <a href="mailto:nancyzhang@mail.harvard.edu">Nancy</a>
+ 
 
-
-dates: ["", "Aug. 30", "Sep. 1", "Sep. 6", "Sep. 8", "Sep. 11", "Sep. 13", "Sep. 15", "Sep. 18","Sep. 20", "Sep. 22", "Sep. 25.", "Sep. 27.", "Sep. 29.", "Oct. 2", "Oct. 4", "Oct. 6", "Oct. 11", "Oct. 13", "Oct. 16", "Oct. 18", "Oct. 20", "Oct. 23", "Oct. 25", "Oct. 27", "Oct. 30", "Nov. 1","Nov. 3", "Nov. 6", "Nov. 8",  "Nov. 10", "Nov. 13", "Nov. 15","Nov. 17" , "Nov. 20", "Nov. 22", "Nov. 27", "Nov. 29", "Dec. 6"]
+dates: ["", "Jan. 23", "Jan. 25", "Jan. 30", "Feb. 1", "Feb. 6", "Feb. 8", "Feb. 13", "Feb. 15","Feb. 20", "Feb. 22", "Feb. 27.", "Mar. 1", "Mar. 6.", "Mar. 8", "Mar. 20", "Mar. 22", "Mar. 27", "Mar. 29", "Apr. 3", "Apr. 5", "Apr. 10", "Apr. 12", "Apr. 17", "Apr. 19", "Apr. 24"]
 ohs:
   - time: Wednesday 2:30-4pm
     location: MD 217 (Sasha)
   - time: Wednesday 7-9pm 
-    location: MD 1st Floor (Nancy)
-  - time: Wednesday 8-10pm
-    location: Currier House (Rachit)
-  - time: Thursday 6-8pm
-    location: MD 1st Floor (Zhirui)
-  - time: Thursday 7-9pm
-    location: MD 1st Floor (Haozhe)
-  - time: Thursday 8-10pm
-    location: MD 1st Floor (Mark)
-  - time: Friday 10-11:59am
-    location: MD 2nd Floor (Yuntian)
+    location: MD 2nd Floor (Yoon)
   
   
 
