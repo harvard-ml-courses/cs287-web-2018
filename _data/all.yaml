@@ -61,7 +61,7 @@ lectures:
   - topic: Midterm
     subtopic:
     hw:
-  - topic:
+  - topic: Latent Variable Models
     subtopic: Sequence VAEs
     hw:
   - topic:
@@ -69,25 +69,22 @@ lectures:
     hw: VI Due, Final Project Topics
   - topic:
     subtopic: Better VAE Training
-  - topic:
+  - topic: Discrete Variables
     subtopic: REINFORCE for text
   - topic:
     subtopic: Discrete VAEs
   - topic:
-    subtopic: Recent advances in NMT
-  - topic:
-    subtopic: Project Workshop 1
-    hw: Project Abstract Due
-  - topic:
-    subtopic: Project Workshop 2
-  - topic:
-    subtopic: Unsupervised NMT
-  - topic:
-    subtopic: Latent Variable Models in Science
-    hw: Tutorials Due
+    subtopic: Training with Search
   - topic:
     subtopic: Neural Module Networks
+  - topic: More NMT
+    subtopic: Recent advances in NMT
   - topic:
-    subtopic: Visualizing Language
+    subtopic: Unsupervised NMT
+    hw: Project Abstract Due
+  - topic: Topics
+    subtopic: Latent Variable Models in Science
   - topic:
-    subtopic:
+    subtopic:  Visualizing Language
+  - topic:
+    subtopic:  Visualizing Language
