@@ -56,7 +56,7 @@ lectures:
     subtopic: GANs
   - topic: Midterm
   - topic: Presentations
-    subtopic: Attention is All You Need
+    subtopic: REINFORCE for text
     hw:
   - topic:
     subtopic: Sequence VAEs
