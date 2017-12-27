@@ -293,16 +293,18 @@ weight: 0
                                   </td>
                                   <td>
                                     {% if lecture.papers %}
+                                    <ul>
                                     {% for paper in lecture.papers %}
                                     {% if paper.cite %}
-                                    <div><a href="#cite_{{paper.cite}}">{{paper.name}}</a></div>
+                                    <li><div><a href="#cite_{{paper.cite}}">{{paper.name}}</a></div></li>
 
                                     {% endif %}
                                     {% if paper.link %}
-                                    <div><a href="{{paper.link}}">{{paper.name}}</a></div>
+                                    <li><div><a href="{{paper.link}}">{{paper.name}}</a></div></li>
                                     {% endif %}
                                     {% endfor %}
                                     {% endif %}
+                                    </ul>
                                   </td>
                                   <td> {{lecture.hw | default("",true)}}</td>
                               </tr>
