@@ -16,31 +16,55 @@ lectures:
     subtopic: Bag-of-Words
     hw:
     papers:
+      - name: "PyTorch Deep Learning Tutorial"
+        link: "http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html"
       - name: "Baselines and Bigrams"
         cite: "wang2012baselines"
+      - name: "Computational Linguistics and Deep Learning"
+        cite: "manning2016computational"
+      - name: "Word Representations in Vector Space"
+        cite: "mikolovchen"
     section:
     demos:
   - topic:
     subtopic: Convolutions
     hw: Classification Due.
     papers:
+      - name: "PyTorch NLP Tutorial"
+        link: "http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html"
+      - name: "Natural language processing (almost) from scratch"
+        cite: "collobert2011natural"
+      - name: "CNNs for Sentence Classification"
+        cite: "DBLP:conf/emnlp/Kim14"
     section:
     demos:
   - topic: Sequence Modeling
     hw:
     subtopic: NNLMs
+    papers:
+      - name: "Natural language processing (almost) from scratch"
+        cite: "collobert2011natural"
+      - name:
+        cite:
   - topic:
     subtopic: RNNs
     hw:
     papers:
+      - name: "RNNs"
+        cite: ""
     section:
     demos:
   - topic: Sequence Transduction
     subtopic: Encoding
+    papers:
+      - name: "RNNs"
+        cite: ""
   - topic:
     subtopic: Attention
     hw: Modeling Due
     papers:
+      - name: "Learning to Align and Translate"
+        cite: "DBLP:journals/corr/BahdanauCB14"
     section:
     demos:
   - topic:
