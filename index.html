@@ -306,7 +306,19 @@ weight: 0
                           </table>
                       </div>
                   </div>
+                  <div class="row container">
+                    <h3 id="cites">Citations</h3>
+
+                    <table id="pubTable" class="table table-hover"></table>
+                    <script>
+                      $(function(){
+                      bibtexify("page.bib", "pubTable", {"visualization":false});}
+                      );
+                    </script>
+                  </div>
+
               </div>
+
 
               <!--div id="grading_tab" class="row tab-pane fade">
                   <div class="row container">
