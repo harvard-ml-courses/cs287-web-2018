@@ -42,22 +42,22 @@ lectures:
     hw:
     subtopic: NNLMs
     papers:
-      - name: "Natural language processing (almost) from scratch"
-        cite: "collobert2011natural"
+      - name: ""
+        cite: ""
       - name:
         cite:
   - topic:
     subtopic: RNNs
     hw:
     papers:
-      - name: "RNNs"
+      - name: ""
         cite: ""
     section:
     demos:
   - topic: Sequence Transduction
     subtopic: Encoding
     papers:
-      - name: "RNNs"
+      - name: ""
         cite: ""
   - topic:
     subtopic: Attention
