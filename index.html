@@ -297,9 +297,12 @@ weight: 0
                                       {{lecture.demos|default("", true)}}
                                   </td>
                                   <td>
-                                      {{lecture.papers|default("", true)}}
+                                    {% if lecture.papers %}
+                                    {% for paper in lecture.papers %}
+                                    <div><a href="#cite_{{paper.cite}}">{{paper.name}}</a></div>
+                                    {% endfor %}
+                                    {% endif %}
                                   </td>
-
                                   <td> {{lecture.hw | default("",true)}}</td>
                               </tr>
                               {% endfor %}

@@ -16,6 +16,8 @@ lectures:
     subtopic: Bag-of-Words
     hw:
     papers:
+      - name: "Baselines and Bigrams"
+        cite: "wang2012baselines"
     section:
     demos:
   - topic:
