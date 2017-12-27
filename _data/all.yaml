@@ -1,10 +1,10 @@
 tas:
-  - name: <a href="mailto:markgoldstein@g.harvard.edu">Mark</a>
+  - name: <a href="mailto:yoonkim@g.harvard.edu">Yoon</a>
 
 
 dates: ["", "Jan. 23", "Jan. 25", "Jan. 30", "Feb. 1", "Feb. 6", "Feb. 8", "Feb. 13", "Feb. 15","Feb. 20", "Feb. 22", "Feb. 27.", "Mar. 1", "Mar. 6.", "Mar. 8", "Mar. 20", "Mar. 22", "Mar. 27", "Mar. 29", "Apr. 3", "Apr. 5", "Apr. 10", "Apr. 12", "Apr. 17", "Apr. 19", "Apr. 24"]
 ohs:
-  - time: Wednesday 2:30-4pm
+  - time: Tuesday 2:30-4pm
     location: MD 217 (Sasha)
   - time: Wednesday 7-9pm
     location: MD 2nd Floor (Yoon)
