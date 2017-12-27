@@ -45,7 +45,6 @@ weight: 0
           <ul class="nav nav-tabs invert-colors">
             <li class="active"><a data-toggle="tab" href="#home_tab">Home</a></li>
             <li><a data-toggle="tab" href="#schedule_tab">Schedule</a></li>
-            <li><a data-toggle="tab" href="#people_tab">People</a></li>
             <li><a data-toggle="tab" href="#project_tab">Project</a></li>
           </ul>
         </div>
@@ -86,6 +85,34 @@ weight: 0
                                       <li>See the course <a href="syllabus.pdf">syllabus</a>
                                   </ul>
                               </dd>
+                              <dt>Instructor</dt>
+                              <dd> <ul>
+                                      <li>Alexander "Sasha" Rush  <br>
+                                        OH: Wed 2:30-4, MD 217
+                                      </li>
+                                      <li>Email: Piazza preferred or srush at seas.harvard.edu
+                                    </li></ul>
+                                  </dd>
+
+                                  <dt>Teaching Assistants</dt>
+                                  <dd>
+                                    <ul>
+                                      <li>
+                                        {% for ta in site.data.all.tas %}
+                                        {{ta.name}}
+                                        {% endfor %}
+                                      </li>
+                                    </ul>
+                                  </dd>
+                                  <dt>Office Hours</dt>
+                                  <dd>
+                                    <ul>
+                                      {% for oh in site.data.all.ohs %}
+                                      <li>{{oh.time}}: {{oh.location}}</li>
+                                      {% endfor %}
+                                    </ul>
+                                  </dd>
+
 
                               <dt>Grading</dt>
                               <dd>
@@ -128,39 +155,7 @@ weight: 0
                       </dl>
                   </div>
               </div-->
-              <div id="people_tab" class="row tab-pane fade">
-                  <div class="row container">
-                      <dl>
-                          <dt>Instructor</dt>
-                          <dd> <ul>
-                              <li>Alexander "Sasha" Rush  <br>
-                                  OH: Wed 2:30-4, MD 217
-                              </li>
-                              <li>Email: Piazza preferred or srush at seas.harvard.edu
-                              </li></ul>
-                          </dd>
 
-                          <dt>Teaching Assistants</dt>
-                          <dd>
-                              <ul>
-                                  <li>
-                                  {% for ta in site.data.all.tas %}
-                                  {{ta.name}}
-                                  {% endfor %}
-                                  </li>
-                               </ul>
-                          </dd>
-                          <dt>Office Hours</dt>
-                          <dd>
-                            <ul>
-                              {% for oh in site.data.all.ohs %}
-                              <li>{{oh.time}}: {{oh.location}}</li>
-                              {% endfor %}
-                            </ul>
-                          </dd>
-                      </dl>
-                  </div>
-              </div>
               <div id="sections_tab" class="row tab-pane fade">
                   <h3>Time and Location</h3>
                   <div class="row container">
