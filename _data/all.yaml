@@ -63,33 +63,63 @@ lectures:
   - topic: Sequence Transduction
     subtopic: Encoding
     papers:
-      - name: ""
-        cite: ""
+      - name: "Sequence-to-Sequence Learning with Recurrent Neural Networks"
+        link: "https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf"
+      - name: "Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation"
+        link: "https://arxiv.org/pdf/1406.1078.pdf"
   - topic:
     subtopic: Attention
     hw: Modeling Due
     papers:
-      - name: "Learning to Align and Translate"
-        cite: "DBLP:journals/corr/BahdanauCB14"
+      - name: "Neural Machine Translation by Jointly Learning to Align and Translate"
+        link: "https://arxiv.org/abs/1409.0473"
+      - name: "Effective Approaches to Attention-based Neural Machine Translation"
+        link: "https://arxiv.org/pdf/1508.04025.pdf"
+      - name: "Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention"
+        link: "https://arxiv.org/pdf/1502.03044.pdf"       
     section:
     demos:
   - topic:
     subtopic: Search
     hw:
+    papers:
+      - name: "Sequence-to-Sequence Learning as Beam-Search Optimization"
+        link: "https://arxiv.org/pdf/1606.02960.pdf"
+      - name: "Sequence-level Training with Recurrent Neural Networks"
+        link: "https://arxiv.org/pdf/1511.06732.pdf"
   - topic: Variational Inference
     hw:
     subtopic: Basics
+    papers:
+      - name: "Variational Inference: A Review for Statisticians"
+        link: "https://arxiv.org/abs/1601.00670"
+      - name: "Graphical Models, Exponential Familes, and Variational Inference"
+        link: "https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf"
   - topic:
     subtopic: VAEs
     hw:
     papers:
+      - name: "Auto-Encoding Variable Bayes"
+        link: "https://arxiv.org/abs/1312.6114"
+      - name: "Semi-Supervised Learning with Deep Generative Models"
+        link: "https://arxiv.org/abs/1406.5298"
     section:
     demos:
   - topic: Other Latent Variable Techniques
     subtopic: GANs
+    papers:
+      - name: "Generative Adversarial Networks"
+        link: "https://arxiv.org/abs/1406.2661"
+      - name: "NIPS 2016 GAN Tutorial"
+        link: "https://arxiv.org/pdf/1701.00160.pdf"
     hw: Transduction Due
   - topic:
     subtopic: REINFORCE
+    papers:
+      - name: "Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcment Learning"
+        link: "http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf"
+      - name: "Gradient Estimation Using Stochastic Computation Graphs"
+        link: "https://arxiv.org/abs/1506.05254"
   - topic: Midterm
     subtopic:
     hw:
