@@ -42,16 +42,22 @@ lectures:
     hw:
     subtopic: NNLMs
     papers:
-      - name: ""
-        cite: ""
-      - name:
-        cite:
+      - name: "A Neural Probabilistic Language Model"
+        link: "http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf"
+      - name: "Three New Graphical Models for Statistical Language Modelling"
+        link: "https://www.cs.toronto.edu/~amnih/papers/threenew.pdf"
   - topic:
     subtopic: RNNs
     hw:
     papers:
-      - name: ""
-        cite: ""
+      - name: "Recurrent Neural Network-Based Language Model"
+        link: "http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf"
+      - name: "Understanding LSTM Networks"
+        link: "http://colah.github.io/posts/2015-08-Understanding-LSTMs/"
+      - name: "Generating Text with Recurrent Neural Networks"
+        link: "http://www.cs.utoronto.ca/~ilya/pubs/2011/LANG-RNN.pdf"
+      - name: "The Unreasonable Effectiveness of Recurrent Neural Networks"
+        link: "http://karpathy.github.io/2015/05/21/rnn-effectiveness/"
     section:
     demos:
   - topic: Sequence Transduction
