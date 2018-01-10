@@ -28,7 +28,7 @@ lectures:
     demos:
   - topic:
     subtopic: Convolutions
-    hw: Classification Due.
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW1/">Classification</a> <a href="https://www.kaggle.com/c/harvard-cs281-hw1">(Kaggle)</a>
     papers:
       - name: "PyTorch NLP Tutorial"
         link: "http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html"
@@ -69,14 +69,14 @@ lectures:
         link: "https://arxiv.org/pdf/1406.1078.pdf"
   - topic:
     subtopic: Attention
-    hw: Modeling Due
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW2/">Modeling</a> <a href="https://www.kaggle.com/c/cs287-hw2-s18">(Kaggle)</a>
     papers:
       - name: "Neural Machine Translation by Jointly Learning to Align and Translate"
         link: "https://arxiv.org/abs/1409.0473"
       - name: "Effective Approaches to Attention-based Neural Machine Translation"
         link: "https://arxiv.org/pdf/1508.04025.pdf"
       - name: "Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention"
-        link: "https://arxiv.org/pdf/1502.03044.pdf"       
+        link: "https://arxiv.org/pdf/1502.03044.pdf"
     section:
     demos:
   - topic:
@@ -112,7 +112,7 @@ lectures:
         link: "https://arxiv.org/abs/1406.2661"
       - name: "NIPS 2016 GAN Tutorial"
         link: "https://arxiv.org/pdf/1701.00160.pdf"
-    hw: Transduction Due
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW3/">Attention</a> <a href="https://www.kaggle.com/c/cs287-hw3-s18">(Kaggle)</a>
   - topic:
     subtopic: REINFORCE
     papers:
@@ -135,7 +135,7 @@ lectures:
         link: "https://arxiv.org/pdf/1702.08139.pdf"
   - topic:
     subtopic: Sampling Improvements
-    hw: VI Due, Final Project Topics
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW4/">VI</a> <a href="https://www.kaggle.com/c/cs287-hw4-s18">(Kaggle)</a>
   - topic:
     subtopic: Structured VAEs
     papers:
@@ -143,6 +143,7 @@ lectures:
         link: "https://arxiv.org/pdf/1609.09869.pdf"
       - name: "Composing graphical models with neural networks for structured representations and fast inference"
         link: "https://arxiv.org/pdf/1603.06277.pdf"
+    hw: Final Project Topics
   - topic: Discrete Variables
     subtopic: REINFORCE for text
   - topic:
