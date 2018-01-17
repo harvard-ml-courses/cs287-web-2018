@@ -120,9 +120,13 @@ lectures:
         link: "http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf"
       - name: "Gradient Estimation Using Stochastic Computation Graphs"
         link: "https://arxiv.org/abs/1506.05254"
-  - topic: Midterm
+  - topic: Guest Lecture (Structured Training for NMT)
     subtopic:
     hw:
+  - topic: Midterm 
+    subtopic:
+    hw:
+
   - topic: Latent Variable Models
     subtopic: Sequence VAEs
     hw:
@@ -163,6 +167,4 @@ lectures:
   - topic:
     subtopic:  Latent Variable Models in Vision
   - topic: Interpretation
-    subtopic:  Visualizing Language
-  - topic:
     subtopic:  Rationale Generation
