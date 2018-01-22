@@ -98,15 +98,16 @@ lectures:
     hw:
     subtopic: Basics
     papers:
-      - name: "Variational Inference: A Review for Statisticians"
+      - name: "Tutorial: Variational Inference: A Review for Statisticians"
         link: "https://arxiv.org/abs/1601.00670"
-      - name: "Graphical Models, Exponential Familes, and Variational Inference"
-        link: "https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf"
+
   - topic:
     subtopic: VAEs
     hw:
     papers:
-      - name: "Auto-Encoding Variable Bayes"
+      - name: "Torch Example: Variational Autoencoders"
+        link: "https://github.com/pytorch/examples/tree/master/vae"
+      - name: "Fundamental: Auto-Encoding Variable Bayes"
         link: "https://arxiv.org/abs/1312.6114"
       - name: "Semi-Supervised Learning with Deep Generative Models"
         link: "https://arxiv.org/abs/1406.5298"
