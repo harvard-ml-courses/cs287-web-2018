@@ -156,6 +156,9 @@ lectures:
       - name: Distributions and Sampling
         section: Torch
         link: "http://pytorch.org/docs/master/distributions.html"
+      - name: SeqGAN
+        link: "https://arxiv.org/abs/1609.05473"
+        section: "Application"
       - name: "Gradient Estimation Using Stochastic Computation Graphs"
         section: Tutorial
         link: "https://arxiv.org/abs/1506.05254"
@@ -165,7 +168,6 @@ lectures:
   - topic: Midterm
     subtopic:
     hw:
-
   - topic: Latent Variable Models
     subtopic: Sequence VAEs
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW4/">VI</a> <a href="https://www.kaggle.com/c/cs287-hw4-s18">(Kaggle)</a>
