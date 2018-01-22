@@ -65,7 +65,7 @@ lectures:
     papers:
       - name: "NLP Tutorial RNNs"
         section: Torch
-        link: "http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html"
+        link: "http://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html"
       - name: "Recurrent Neural Network-Based Language Model"
         link: "http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf"
         section: Fundamental
