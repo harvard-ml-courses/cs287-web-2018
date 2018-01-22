@@ -135,8 +135,9 @@ lectures:
   - topic: Other Latent Variable Techniques
     subtopic: GANs
     papers:
-      - name: Distributions and Sampling
+      - name: "Generative Adversarial Networks (GANs) in 50 lines of code"
         section: Torch
+        link: "https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f"
         link: "http://pytorch.org/docs/master/distributions.html"
 
       - name: "Generative Adversarial Networks"
@@ -145,8 +146,6 @@ lectures:
       - name: "NIPS 2016 GAN Tutorial"
         section: Tutorial
         link: "https://arxiv.org/pdf/1701.00160.pdf"
-      - name: "Generative Adversarial Networks (GANs) in 50 lines of code"
-        link: "https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f"
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW3/">Attention</a> <a href="https://www.kaggle.com/c/cs287-hw3-s18">(Kaggle)</a>
   - topic:
     subtopic: REINFORCE
