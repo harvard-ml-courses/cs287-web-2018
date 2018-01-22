@@ -17,12 +17,10 @@ lectures:
     subtopic: Bag-of-Words
     hw:
     papers:
-      - name: "PyTorch Deep Learning Tutorial"
+      - name: "Torch: PyTorch Deep Learning Tutorial"
         link: "http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html"
-      - name: "Baselines and Bigrams"
+      - name: "Fundamental: Baselines and Bigrams"
         cite: "wang2012baselines"
-      - name: "Computational Linguistics and Deep Learning"
-        cite: "manning2016computational"
       - name: "Word Representations in Vector Space"
         cite: "mikolovchen"
     section:
