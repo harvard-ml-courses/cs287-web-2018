@@ -310,11 +310,12 @@ weight: 0
                                     <li><div><a href="#cite_{{paper.cite}}">{{paper.name}}</a></div></li>
 
                                     {% endif %}
-                                    {% if paper.section %}
-                                    {{paper.section}}
-                                    {% endif %}
                                     {% if paper.link %}
-                                    <li><div><a href="{{paper.link}}">{{paper.name}}</a></div></li>
+                                    <li><div>
+                                        {% if paper.section %}
+                                        {{paper.section}}:
+                                        {% endif %}
+                                        <a href="{{paper.link}}">{{paper.name}}</a></div></li>
                                     {% endif %}
                                     {% endfor %}
                                     {% endif %}

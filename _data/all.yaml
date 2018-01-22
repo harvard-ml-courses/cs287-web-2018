@@ -17,13 +17,16 @@ lectures:
     subtopic: Bag-of-Words
     hw:
     papers:
-      - name: "Torch: Deep Learning Tutorial"
+      - name: "Deep Learning Tutorial"
+        section: Torch
         link: "http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html"
-      - name: "Fundamental: Baselines and Bigrams"
+      - name: "Baselines and Bigrams"
+        section: Fundamental
         link: "http://www.aclweb.org/anthology/P/P12/P12-2.pdf#page=118"
       - name: "Word Representations in Vector Space"
         link: "http://arxiv.org/abs/1301.3781"
-      - name: "Blog: Deep Learning, NLP, and Representations"
+      - name: "Deep Learning, NLP, and Representations"
+        section: Blog
         link: "http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/"
     section:
     demos:
@@ -31,13 +34,16 @@ lectures:
     subtopic: Convolutions
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW1/Homework%201.ipynb">Classification</a> (Mon @ midnight) <a href="https://www.kaggle.com/c/harvard-cs281-hw1">(Kaggle)</a>
     papers:
-      - name: "Torch: NLP Tutorial (Basic)"
+      - name: "NLP Tutorial (Basic)"
+        section: Torch
         link: "http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html"
-      - name: "Fundamental: Natural language processing (almost) from scratch"
+      - name: "Natural language processing (almost) from scratch"
+        section: Fundamental
         cite: "collobert2011natural"
       - name: "CNNs for Sentence Classification"
         link: "http://aclweb.org/anthology/D/D14/D14-1181.pdf"
-      - name: "Blog: Understanding Convolutional Neural Networks for NLP"
+      - name: "Understanding Convolutional Neural Networks for NLP"
+        section: Blog
         link: "http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/"
     section:
     demos:
@@ -45,7 +51,8 @@ lectures:
     hw:
     subtopic: NNLMs
     papers:
-      - name: "Fundamental: A Neural Probabilistic Language Model"
+      - name: "A Neural Probabilistic Language Model"
+        section: Fundamental
         link: "http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf"
       - name: "Hierarchical Probabilistic Neural Network Language Model"
         link: "https://www.iro.umontreal.ca/~lisa/pointeurs/hierarchical-nnlm-aistats05.pdf"
@@ -53,13 +60,16 @@ lectures:
     subtopic: RNNs
     hw:
     papers:
-      - name: "Torch: NLP Tutorial RNNs"
+      - name: "NLP Tutorial RNNs"
+        section: Torch
         link: "http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html"
-      - name: "Fundamental: Recurrent Neural Network-Based Language Model"
+      - name: "Recurrent Neural Network-Based Language Model"
         link: "http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf"
+        section: Fundamental
       - name: "Generating Text with Recurrent Neural Networks"
         link: "http://www.cs.utoronto.ca/~ilya/pubs/2011/LANG-RNN.pdf"
-      - name: "Blog: Understanding LSTM Networks"
+      - name: "Understanding LSTM Networks"
+        section: Blog
         link: "http://colah.github.io/posts/2015-08-Understanding-LSTMs/"
       - name: "The Unreasonable Effectiveness of Recurrent Neural Networks"
         link: "http://karpathy.github.io/2015/05/21/rnn-effectiveness/"
@@ -68,21 +78,26 @@ lectures:
   - topic: Sequence Transduction
     subtopic: Encoding
     papers:
-      - name: "Fundamental: Sequence-to-Sequence Learning with Recurrent Neural Networks"
+      - name: "Sequence-to-Sequence Learning with Recurrent Neural Networks"
+        section: Fundamental
         link: "https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf"
-      - name: "Application: Sentence Embedding"
+      - name: "Sentence Embedding"
+        section: Application
         link: ""
   - topic:
     subtopic: Attention
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW2/">Modeling</a> <a href="https://www.kaggle.com/c/cs287-hw2-s18">(Kaggle)</a>
     papers:
-      - name: "Torch: Translation with a Sequence to Sequence Network and Attention"
+      - name: "Translation with a Sequence to Sequence Network and Attention"
+        section: Torch
         link: "http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html"
-      - name: "Fundamental: Neural Machine Translation by Jointly Learning to Align and Translate"
+      - name: "Neural Machine Translation by Jointly Learning to Align and Translate"
+        section: Fundamental
         link: "https://arxiv.org/abs/1409.0473"
       - name: "Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention"
         link: "https://arxiv.org/pdf/1502.03044.pdf"
-      - name: "Blog: Attention and Augmented Recurrent Neural Networks"
+      - name: "Attention and Augmented Recurrent Neural Networks"
+        section: Blog
         link: "https://distill.pub/2016/augmented-rnns/"
     section:
     demos:
@@ -90,7 +105,8 @@ lectures:
     subtopic: Search
     hw:
     papers:
-      - name: "Application: Sequence-to-Sequence Learning as Beam-Search Optimization"
+      - name: " Sequence-to-Sequence Learning as Beam-Search Optimization"
+        section: Application
         link: "https://arxiv.org/pdf/1606.02960.pdf"
       - name: "Sequence-level Training with Recurrent Neural Networks"
         link: "https://arxiv.org/pdf/1511.06732.pdf"
@@ -98,7 +114,8 @@ lectures:
     hw:
     subtopic: Basics
     papers:
-      - name: "Tutorial: Variational Inference: A Review for Statisticians"
+      - name: "Variational Inference: A Review for Statisticians"
+        section: Tutorial
         link: "https://arxiv.org/abs/1601.00670"
 
   - topic:
@@ -106,9 +123,10 @@ lectures:
     hw:
     papers:
       - section: Torch
-        name: "Example: Variational Autoencoders"
+        name: "Variational Autoencoders"
         link: "https://github.com/pytorch/examples/tree/master/vae"
-      - name: "Fundamental: Auto-Encoding Variable Bayes"
+      - section: Fundamental
+        name: "Auto-Encoding Variable Bayes"
         link: "https://arxiv.org/abs/1312.6114"
       - name: "Semi-Supervised Learning with Deep Generative Models"
         link: "https://arxiv.org/abs/1406.5298"
@@ -117,17 +135,27 @@ lectures:
   - topic: Other Latent Variable Techniques
     subtopic: GANs
     papers:
+      - name: Distributions and Sampling
+        section: Torch
+        link: "http://pytorch.org/docs/master/distributions.html"
+
       - name: "Generative Adversarial Networks"
         link: "https://arxiv.org/abs/1406.2661"
+        section: Fundamental
       - name: "NIPS 2016 GAN Tutorial"
+        section: Tutorial
         link: "https://arxiv.org/pdf/1701.00160.pdf"
+      - name: "Generative Adversarial Networks (GANs) in 50 lines of code"
+        link: "https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f"
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW3/">Attention</a> <a href="https://www.kaggle.com/c/cs287-hw3-s18">(Kaggle)</a>
   - topic:
     subtopic: REINFORCE
     papers:
-      - name: "Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcment Learning"
-        link: "http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf"
+      - name: Distributions and Sampling
+        section: Torch
+        link: "http://pytorch.org/docs/master/distributions.html"
       - name: "Gradient Estimation Using Stochastic Computation Graphs"
+        section: Tutorial
         link: "https://arxiv.org/abs/1506.05254"
   - topic: Guest Lecture (Structured Training for NMT)
     subtopic:
