@@ -28,7 +28,7 @@ lectures:
     demos:
   - topic:
     subtopic: Convolutions
-    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW1/">Classification</a> <a href="https://www.kaggle.com/c/harvard-cs281-hw1">(Kaggle)</a>
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW1/Homework%201.ipynb">Classification</a> <a href="https://www.kaggle.com/c/harvard-cs281-hw1">(Kaggle)</a>
     papers:
       - name: "PyTorch NLP Tutorial"
         link: "http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html"
