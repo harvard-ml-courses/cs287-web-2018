@@ -87,7 +87,6 @@ lectures:
         link: ""
   - topic:
     subtopic: Attention
-    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW2/">Modeling</a> <a href="https://www.kaggle.com/c/cs287-hw2-s18">(Kaggle)</a>
     papers:
       - name: "Translation with a Sequence to Sequence Network and Attention"
         section: Torch
@@ -104,7 +103,7 @@ lectures:
     demos:
   - topic:
     subtopic: Search
-    hw:
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW2/">Modeling</a> <a href="https://www.kaggle.com/c/cs287-hw2-s18">(Kaggle)</a>
     papers:
       - name: " Sequence-to-Sequence Learning as Beam-Search Optimization"
         section: Application
@@ -147,8 +146,9 @@ lectures:
       - name: "NIPS 2016 GAN Tutorial"
         section: Tutorial
         link: "https://arxiv.org/pdf/1701.00160.pdf"
-    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW3/">Attention</a> <a href="https://www.kaggle.com/c/cs287-hw3-s18">(Kaggle)</a>
+
   - topic:
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW3/">Translation</a> <a href="https://www.kaggle.com/c/cs287-hw3-s18">(Kaggle)</a>
     subtopic: REINFORCE
     papers:
       - name: Distributions and Sampling
