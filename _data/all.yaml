@@ -28,7 +28,7 @@ lectures:
     demos:
   - topic:
     subtopic: Convolutions
-    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW1/Homework%201.ipynb">Classification</a> <a href="https://www.kaggle.com/c/harvard-cs281-hw1">(Kaggle)</a>
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW1/Homework%201.ipynb">Classification</a> (Mon @ midnight) <a href="https://www.kaggle.com/c/harvard-cs281-hw1">(Kaggle)</a>
     papers:
       - name: "PyTorch NLP Tutorial"
         link: "http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html"
@@ -123,7 +123,7 @@ lectures:
   - topic: Guest Lecture (Structured Training for NMT)
     subtopic:
     hw:
-  - topic: Midterm 
+  - topic: Midterm
     subtopic:
     hw:
 
@@ -139,7 +139,7 @@ lectures:
         link: "https://arxiv.org/pdf/1702.08139.pdf"
   - topic:
     subtopic: Sampling Improvements
-    hw: 
+    hw:
   - topic:
     subtopic: Structured VAEs
     papers:
