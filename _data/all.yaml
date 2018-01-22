@@ -51,6 +51,9 @@ lectures:
     hw:
     subtopic: NNLMs
     papers:
+      - name: "Learning Embeddings"
+        link: "http://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html"
+        section: Torch
       - name: "A Neural Probabilistic Language Model"
         section: Fundamental
         link: "http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf"
