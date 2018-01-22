@@ -1,14 +1,12 @@
 tas:
-  - name: <a href="mailto:yoonkim@g.harvard.edu">Yoon</a>
-  - name: <a href="mailto:carldenton@college.harvard.edu">Carl</a>
+  - name: <a href="mailto:yoonkim@g.harvard.edu">Yoon</a> (OH: Monday 7-8pm MD),
+  - name: <a href="mailto:carldenton@college.harvard.edu">Carl</a> (OH: Monday 8-9pm Lowell)
 
 
 dates: ["", "Jan. 23", "Jan. 25", "Jan. 30", "Feb. 1", "Feb. 6", "Feb. 8", "Feb. 13", "Feb. 15","Feb. 20", "Feb. 22", "Feb. 27.", "Mar. 1", "Mar. 6.", "Mar. 8", "Mar. 20", "Mar. 22", "Mar. 27", "Mar. 29", "Apr. 3", "Apr. 5", "Apr. 10", "Apr. 12", "Apr. 17", "Apr. 19", "Apr. 24"]
 ohs:
   - time: Tuesday 2:30-4pm
     location: MD 217 (Sasha)
-  - time: Wednesday 7-9pm
-    location: MD 2nd Floor (Yoon)
 
 
 
@@ -32,7 +30,7 @@ lectures:
     demos:
   - topic:
     subtopic: Convolutions
-    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW1/Homework%201.ipynb">Classification</a> (Mon @ midnight) <a href="https://www.kaggle.com/c/harvard-cs281-hw1">(Kaggle)</a>
+    hw:
     papers:
       - name: "NLP Tutorial (Basic)"
         section: Torch
@@ -48,7 +46,7 @@ lectures:
     section:
     demos:
   - topic: Sequence Modeling
-    hw:
+    hw:  <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW1/Homework%201.ipynb">Classification</a> (Mon @ midnight) <a href="https://www.kaggle.com/c/harvard-cs281-hw1">(Kaggle)</a>
     subtopic: NNLMs
     papers:
       - name: "Learning Embeddings"
