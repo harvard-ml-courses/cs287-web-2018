@@ -105,7 +105,8 @@ lectures:
     subtopic: VAEs
     hw:
     papers:
-      - name: "Torch Example: Variational Autoencoders"
+      - section: Torch
+        name: "Example: Variational Autoencoders"
         link: "https://github.com/pytorch/examples/tree/master/vae"
       - name: "Fundamental: Auto-Encoding Variable Bayes"
         link: "https://arxiv.org/abs/1312.6114"
