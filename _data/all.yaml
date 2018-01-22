@@ -17,24 +17,29 @@ lectures:
     subtopic: Bag-of-Words
     hw:
     papers:
-      - name: "Torch: PyTorch Deep Learning Tutorial"
+      - name: "Torch: Deep Learning Tutorial"
         link: "http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html"
       - name: "Fundamental: Baselines and Bigrams"
-        cite: "wang2012baselines"
+        link: "http://www.aclweb.org/anthology/P/P12/P12-2.pdf#page=118"
       - name: "Word Representations in Vector Space"
-        cite: "mikolovchen"
+        link: "http://arxiv.org/abs/1301.3781"
+      - name: "Blog: Deep Learning, NLP, and Representations"
+        link: "http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/"
+
     section:
     demos:
   - topic:
     subtopic: Convolutions
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW1/Homework%201.ipynb">Classification</a> (Mon @ midnight) <a href="https://www.kaggle.com/c/harvard-cs281-hw1">(Kaggle)</a>
     papers:
-      - name: "PyTorch NLP Tutorial"
+      - name: "Torch: NLP Tutorial"
         link: "http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html"
-      - name: "Natural language processing (almost) from scratch"
+      - name: "Fundamental: Natural language processing (almost) from scratch"
         cite: "collobert2011natural"
       - name: "CNNs for Sentence Classification"
-        cite: "DBLP:conf/emnlp/Kim14"
+        link: "http://aclweb.org/anthology/D/D14/D14-1181.pdf"
+      - name: "Blog: Understanding Convolutional Neural Networks for NLP"
+        link: "http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/"
     section:
     demos:
   - topic: Sequence Modeling
