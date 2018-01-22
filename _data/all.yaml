@@ -25,14 +25,13 @@ lectures:
         link: "http://arxiv.org/abs/1301.3781"
       - name: "Blog: Deep Learning, NLP, and Representations"
         link: "http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/"
-
     section:
     demos:
   - topic:
     subtopic: Convolutions
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW1/Homework%201.ipynb">Classification</a> (Mon @ midnight) <a href="https://www.kaggle.com/c/harvard-cs281-hw1">(Kaggle)</a>
     papers:
-      - name: "Torch: NLP Tutorial"
+      - name: "Torch: NLP Tutorial (Basic)"
         link: "http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html"
       - name: "Fundamental: Natural language processing (almost) from scratch"
         cite: "collobert2011natural"
@@ -46,20 +45,22 @@ lectures:
     hw:
     subtopic: NNLMs
     papers:
-      - name: "A Neural Probabilistic Language Model"
+      - name: "Fundamental: A Neural Probabilistic Language Model"
         link: "http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf"
-      - name: "Three New Graphical Models for Statistical Language Modelling"
-        link: "https://www.cs.toronto.edu/~amnih/papers/threenew.pdf"
+      - name: "Hierarchical Probabilistic Neural Network Language Model"
+        link: "https://www.iro.umontreal.ca/~lisa/pointeurs/hierarchical-nnlm-aistats05.pdf"
   - topic:
     subtopic: RNNs
     hw:
     papers:
-      - name: "Recurrent Neural Network-Based Language Model"
+      - name: "Torch: NLP Tutorial RNNs"
+        link: "http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html"
+      - name: "Fundamental: Recurrent Neural Network-Based Language Model"
         link: "http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf"
-      - name: "Understanding LSTM Networks"
-        link: "http://colah.github.io/posts/2015-08-Understanding-LSTMs/"
       - name: "Generating Text with Recurrent Neural Networks"
         link: "http://www.cs.utoronto.ca/~ilya/pubs/2011/LANG-RNN.pdf"
+      - name: "Blog: Understanding LSTM Networks"
+        link: "http://colah.github.io/posts/2015-08-Understanding-LSTMs/"
       - name: "The Unreasonable Effectiveness of Recurrent Neural Networks"
         link: "http://karpathy.github.io/2015/05/21/rnn-effectiveness/"
     section:
@@ -67,27 +68,29 @@ lectures:
   - topic: Sequence Transduction
     subtopic: Encoding
     papers:
-      - name: "Sequence-to-Sequence Learning with Recurrent Neural Networks"
+      - name: "Fundamental: Sequence-to-Sequence Learning with Recurrent Neural Networks"
         link: "https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf"
-      - name: "Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation"
-        link: "https://arxiv.org/pdf/1406.1078.pdf"
+      - name: "Application: Sentence Embedding"
+        link: ""
   - topic:
     subtopic: Attention
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW2/">Modeling</a> <a href="https://www.kaggle.com/c/cs287-hw2-s18">(Kaggle)</a>
     papers:
-      - name: "Neural Machine Translation by Jointly Learning to Align and Translate"
+      - name: "Torch: Translation with a Sequence to Sequence Network and Attention"
+        link: "http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html"
+      - name: "Fundamental: Neural Machine Translation by Jointly Learning to Align and Translate"
         link: "https://arxiv.org/abs/1409.0473"
-      - name: "Effective Approaches to Attention-based Neural Machine Translation"
-        link: "https://arxiv.org/pdf/1508.04025.pdf"
       - name: "Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention"
         link: "https://arxiv.org/pdf/1502.03044.pdf"
+      - name: "Blog: Attention and Augmented Recurrent Neural Networks"
+        link: "https://distill.pub/2016/augmented-rnns/"
     section:
     demos:
   - topic:
     subtopic: Search
     hw:
     papers:
-      - name: "Sequence-to-Sequence Learning as Beam-Search Optimization"
+      - name: "Application: Sequence-to-Sequence Learning as Beam-Search Optimization"
         link: "https://arxiv.org/pdf/1606.02960.pdf"
       - name: "Sequence-level Training with Recurrent Neural Networks"
         link: "https://arxiv.org/pdf/1511.06732.pdf"
