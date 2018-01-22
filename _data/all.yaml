@@ -94,10 +94,10 @@ lectures:
       - name: "Translation with a Sequence to Sequence Network and Attention"
         section: Torch
         link: "http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html"
-      - name: "Neural Machine Translation by Jointly Learning to Align and Translate"
+      - name: "NMT by Jointly Learning to Align and Translate"
         section: Fundamental
         link: "https://arxiv.org/abs/1409.0473"
-      - name: "Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention"
+      - name: "Show, Attend, and Tell"
         link: "https://arxiv.org/pdf/1502.03044.pdf"
       - name: "Attention and Augmented Recurrent Neural Networks"
         section: Blog
