@@ -37,7 +37,7 @@ lectures:
         link: "http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html"
       - name: "Natural language processing (almost) from scratch"
         section: Fundamental
-        cite: "collobert2011natural"
+        link: "https://arxiv.org/abs/1103.0398"
       - name: "CNNs for Sentence Classification"
         link: "http://aclweb.org/anthology/D/D14/D14-1181.pdf"
       - name: "Understanding Convolutional Neural Networks for NLP"
