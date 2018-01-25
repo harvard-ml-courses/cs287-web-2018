@@ -12,7 +12,7 @@ ohs:
 
 lectures:
   - topic: Sequence Classification
-    subtopic: Bag-of-Words
+    subtopic: <a href="lecture1.pdf">Intro</a>| Bag-of-Words
     hw:
     papers:
       - name: "Deep Learning Tutorial"
