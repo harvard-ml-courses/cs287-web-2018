@@ -37,7 +37,7 @@ lectures:
         link: "http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html"
       - name: "Natural language processing (almost) from scratch"
         section: Fundamental
-        cite: "collobert2011natural"
+        link: "https://arxiv.org/abs/1103.0398"
       - name: "CNNs for Sentence Classification"
         link: "http://aclweb.org/anthology/D/D14/D14-1181.pdf"
       - name: "Understanding Convolutional Neural Networks for NLP"
@@ -87,7 +87,6 @@ lectures:
         link: ""
   - topic:
     subtopic: Attention
-    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW2/">Modeling</a> <a href="https://www.kaggle.com/c/cs287-hw2-s18">(Kaggle)</a>
     papers:
       - name: "Translation with a Sequence to Sequence Network and Attention"
         section: Torch
@@ -104,7 +103,7 @@ lectures:
     demos:
   - topic:
     subtopic: Search
-    hw:
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW2/">Modeling</a> <a href="https://www.kaggle.com/c/cs287-hw2-s18">(Kaggle)</a>
     papers:
       - name: " Sequence-to-Sequence Learning as Beam-Search Optimization"
         section: Application
@@ -147,8 +146,9 @@ lectures:
       - name: "NIPS 2016 GAN Tutorial"
         section: Tutorial
         link: "https://arxiv.org/pdf/1701.00160.pdf"
-    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW3/">Attention</a> <a href="https://www.kaggle.com/c/cs287-hw3-s18">(Kaggle)</a>
+
   - topic:
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW3/">Translation</a> <a href="https://www.kaggle.com/c/cs287-hw3-s18">(Kaggle)</a>
     subtopic: REINFORCE
     papers:
       - name: Distributions and Sampling
@@ -168,7 +168,6 @@ lectures:
     hw:
   - topic: Latent Variable Models
     subtopic: Sequence VAEs
-    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW4/">VI</a> <a href="https://www.kaggle.com/c/cs287-hw4-s18">(Kaggle)</a>
     papers:
       - name: "Generating Sentences from a Continuous Space"
         link: "https://arxiv.org/pdf/1511.06349.pdf"
@@ -177,6 +176,7 @@ lectures:
       - name: "Improved Variational Autoencoders for Text Modeling using Dilated Convolutions"
         link: "https://arxiv.org/pdf/1702.08139.pdf"
   - topic:
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW4/">VI</a> <a href="https://www.kaggle.com/c/cs287-hw4-s18">(Kaggle)</a>
     subtopic: Sampling Improvements
     hw:
   - topic:
