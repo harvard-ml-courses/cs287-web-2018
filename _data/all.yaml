@@ -103,7 +103,7 @@ lectures:
     demos:
   - topic:
     subtopic: Search
-    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW2/">Modeling</a> <a href="https://www.kaggle.com/c/cs287-hw2-s18">(Kaggle)</a>
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW2/Homework%202.ipynb">Modeling</a> <a href="https://www.kaggle.com/c/cs287-hw2-s18">(Kaggle)</a>
     papers:
       - name: " Sequence-to-Sequence Learning as Beam-Search Optimization"
         section: Application
