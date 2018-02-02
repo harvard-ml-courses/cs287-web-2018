@@ -74,7 +74,7 @@ lectures:
         link: "http://colah.github.io/posts/2015-08-Understanding-LSTMs/"
       - name: "The Unreasonable Effectiveness of Recurrent Neural Networks"
         link: "http://karpathy.github.io/2015/05/21/rnn-effectiveness/"
-      - name: A Bit of Progress in Language Modeling (count-based models)
+      - name: A Bit of Progress in Language Modeling
         link: https://arxiv.org/abs/cs/0108005
         section: Extra
       - name: Exploring the Limits of Language Modeling (Billion word)
