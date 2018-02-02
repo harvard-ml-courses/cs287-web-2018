@@ -91,9 +91,11 @@ lectures:
       - name: "Sequence-to-Sequence Learning with Recurrent Neural Networks"
         section: Fundamental
         link: "https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf"
-      - name: "Sentence Embedding"
+      - name: "Named Entity Recognition with Bidirectional LSTM-CNNs"
         section: Application
-        link: ""
+        link: "https://www.aclweb.org/anthology/Q16-1026"
+      - name: "Deep contextualized word representations (new)"
+        link: "https://openreview.net/pdf?id=S1p31z-Ab"
   - topic:
     subtopic: Attention
     papers:
