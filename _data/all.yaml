@@ -74,6 +74,15 @@ lectures:
         link: "http://colah.github.io/posts/2015-08-Understanding-LSTMs/"
       - name: "The Unreasonable Effectiveness of Recurrent Neural Networks"
         link: "http://karpathy.github.io/2015/05/21/rnn-effectiveness/"
+      - name: A Bit of Progress in Language Modeling (count-based models)
+        link: https://arxiv.org/abs/cs/0108005
+        section: Extra
+      - name: Exploring the Limits of Language Modeling (Billion word)
+        link: https://arxiv.org/pdf/1602.02410.pdf
+      - name: Do Multi-Sense Embeddings Improve Natural Language Understanding?
+        link: https://arxiv.org/abs/1506.01070
+      - name: TensorBoardX 
+        link: https://github.com/lanpa/tensorboard-pytorch
     section:
     demos:
   - topic: Sequence Transduction
