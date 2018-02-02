@@ -3,7 +3,7 @@ tas:
   - name: "<a href='mailto:carldenton@college.harvard.edu'>Carl</a> (OH: Monday 8-9pm Lowell)"
 
 
-dates: ["", "Jan. 23", "Jan. 25", "Jan. 30", "Feb. 1", "Feb. 6", "Feb. 8", "Feb. 13", "Feb. 15","Feb. 20", "Feb. 22", "Feb. 27.", "Mar. 1", "Mar. 6.", "Mar. 8", "Mar. 20", "Mar. 22", "Mar. 27", "Mar. 29", "Apr. 3", "Apr. 5", "Apr. 10", "Apr. 12", "Apr. 17", "Apr. 19", "Apr. 24"]
+dates: ["", "Jan. 23", "Jan. 25", "Jan. 30", "Feb. 1", "Feb. 6", "Feb. 8", "Feb. 13", "Feb. 15","Feb. 20", "Feb. 22", "Feb. 27.", "Mar. 1", "Mar. 6.", "Mar. 8", "Mar. 20", "Mar. 22", "Mar. 27", "Mar. 29", "Apr. 3", "Apr. 5", "Apr. 10", "Apr. 12", "Apr. 17", "Apr. 19", "Apr. 24", "May 7th", "May 11th"]
 ohs:
   - time: Tuesday 2:30-4pm
     location: MD 217 (Sasha)
@@ -216,3 +216,7 @@ lectures:
     subtopic:  Latent Variable Models in Vision
   - topic: Interpretation
     subtopic:  Rationale Generation
+  - topic: Final Presentation Talks (Evening)
+    subtopic:  
+  - topic: Final Paper Due
+    subtopic:  
