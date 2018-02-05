@@ -168,7 +168,7 @@ lectures:
         link: "https://arxiv.org/pdf/1701.00160.pdf"
   - topic: TBD
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW3/">Translation</a> <a href="https://www.kaggle.com/c/cs287-hw3-s18">(Kaggle)</a>
-    subtopic: REINFORCE
+    subtopic: TBD
     papers:
   - topic: Guest Lecture (Structured Training for NMT)
     subtopic:
