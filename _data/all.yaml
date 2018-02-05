@@ -123,7 +123,7 @@ lectures:
       - name: "Sequence-level Training with Recurrent Neural Networks"
         link: "https://arxiv.org/pdf/1511.06732.pdf"
   - topic:
-    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW3/">Translation</a> <a href="https://www.kaggle.com/c/cs287-hw3-s18">(Kaggle)</a>
+    hw: 
     subtopic: REINFORCE
     papers:
       - name: Distributions and Sampling
