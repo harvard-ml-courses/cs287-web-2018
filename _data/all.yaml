@@ -122,43 +122,6 @@ lectures:
         link: "https://arxiv.org/pdf/1606.02960.pdf"
       - name: "Sequence-level Training with Recurrent Neural Networks"
         link: "https://arxiv.org/pdf/1511.06732.pdf"
-  - topic: Variational Inference
-    hw:
-    subtopic: Basics
-    papers:
-      - name: "Variational Inference: A Review for Statisticians"
-        section: Tutorial
-        link: "https://arxiv.org/abs/1601.00670"
-
-  - topic:
-    subtopic: VAEs
-    hw:
-    papers:
-      - section: Torch
-        name: "Variational Autoencoders"
-        link: "https://github.com/pytorch/examples/tree/master/vae"
-      - section: Fundamental
-        name: "Auto-Encoding Variable Bayes"
-        link: "https://arxiv.org/abs/1312.6114"
-      - name: "Semi-Supervised Learning with Deep Generative Models"
-        link: "https://arxiv.org/abs/1406.5298"
-    section:
-    demos:
-  - topic: Other Latent Variable Techniques
-    subtopic: GANs
-    papers:
-      - name: "GANs in 50 lines of code"
-        section: Torch
-        link: "https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f"
-        link: "http://pytorch.org/docs/master/distributions.html"
-
-      - name: "Generative Adversarial Networks"
-        link: "https://arxiv.org/abs/1406.2661"
-        section: Fundamental
-      - name: "NIPS 2016 GAN Tutorial"
-        section: Tutorial
-        link: "https://arxiv.org/pdf/1701.00160.pdf"
-
   - topic:
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW3/">Translation</a> <a href="https://www.kaggle.com/c/cs287-hw3-s18">(Kaggle)</a>
     subtopic: REINFORCE
@@ -172,6 +135,41 @@ lectures:
       - name: "Gradient Estimation Using Stochastic Computation Graphs"
         section: Tutorial
         link: "https://arxiv.org/abs/1506.05254"
+        
+  - topic: Latent Variable Models of Text
+    hw:
+    subtopic: Variational Inference/Variational Autoencoders
+    papers:
+      - name: "Variational Inference: A Review for Statisticians"
+        section: Tutorial
+        link: "https://arxiv.org/abs/1601.00670"
+      - section: Torch
+        name: "Variational Autoencoders"
+        link: "https://github.com/pytorch/examples/tree/master/vae"
+      - section: Fundamental
+        name: "Auto-Encoding Variable Bayes"
+        link: "https://arxiv.org/abs/1312.6114"
+        
+    section:
+    demos:
+  - topic: Latent Variable Models of Text
+    subtopic: Generative Adversarial Networks
+    papers:
+      - name: "GANs in 50 lines of code"
+        section: Torch
+        link: "https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f"
+        link: "http://pytorch.org/docs/master/distributions.html"
+
+      - name: "Generative Adversarial Networks"
+        link: "https://arxiv.org/abs/1406.2661"
+        section: Fundamental
+      - name: "NIPS 2016 GAN Tutorial"
+        section: Tutorial
+        link: "https://arxiv.org/pdf/1701.00160.pdf"
+  - topic: TBD
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW3/">Translation</a> <a href="https://www.kaggle.com/c/cs287-hw3-s18">(Kaggle)</a>
+    subtopic: REINFORCE
+    papers:
   - topic: Guest Lecture (Structured Training for NMT)
     subtopic:
     hw:
