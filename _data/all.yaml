@@ -152,7 +152,7 @@ lectures:
         
     section:
     demos:
-  - topic: Latent Variable Models of Text
+  - topic: 
     subtopic: Generative Adversarial Networks
     papers:
       - name: "GANs in 50 lines of code"
@@ -166,9 +166,9 @@ lectures:
       - name: "NIPS 2016 GAN Tutorial"
         section: Tutorial
         link: "https://arxiv.org/pdf/1701.00160.pdf"
-  - topic: TBD
+  - topic: NLP Topics
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW3/">Translation</a> <a href="https://www.kaggle.com/c/cs287-hw3-s18">(Kaggle)</a>
-    subtopic: TBD
+    subtopic: 
     papers:
   - topic: Guest Lecture (Structured Training for NMT)
     subtopic:
