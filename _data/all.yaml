@@ -188,7 +188,7 @@ lectures:
   - topic:
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW4/">VI</a> <a href="https://www.kaggle.com/c/cs287-hw4-s18">(Kaggle)</a>
     subtopic: Sampling Improvements
-    hw:
+    papers:
   - topic:
     subtopic: Structured VAEs
     papers:
