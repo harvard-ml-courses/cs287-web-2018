@@ -82,7 +82,7 @@ lectures:
         link: https://arxiv.org/pdf/1602.02410.pdf
       - name: Do Multi-Sense Embeddings Improve Natural Language Understanding?
         link: https://arxiv.org/abs/1506.01070
-      - name: TensorBoardX 
+      - name: TensorBoardX
         link: https://github.com/lanpa/tensorboard-pytorch
     section:
     demos:
@@ -117,13 +117,18 @@ lectures:
     subtopic: Search
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW2/Homework%202.ipynb">Modeling</a> <a href="https://www.kaggle.com/c/cs287-hw2-s18">(Kaggle)</a>
     papers:
-      - name: " Sequence-to-Sequence Learning as Beam-Search Optimization"
+      - name: "Google Neural Machine Translation"
+        section:
+        link: "https://arxiv.org/pdf/1609.08144.pdf"
+      - name: BLEU Score
+        link: "https://aclanthology.info/pdf/P/P02/P02-1040.pdf"
+      - name: "Sequence-to-Sequence Learning as Beam-Search Optimization"
         section: Application
         link: "https://arxiv.org/pdf/1606.02960.pdf"
       - name: "Sequence-level Training with Recurrent Neural Networks"
         link: "https://arxiv.org/pdf/1511.06732.pdf"
   - topic:
-    hw: 
+    hw:
     subtopic: REINFORCE
     papers:
       - name: Distributions and Sampling
@@ -135,7 +140,7 @@ lectures:
       - name: "Gradient Estimation Using Stochastic Computation Graphs"
         section: Tutorial
         link: "https://arxiv.org/abs/1506.05254"
-        
+
   - topic: Latent Variable Models of Text
     hw:
     subtopic: Variational Inference/Variational Autoencoders
@@ -149,10 +154,10 @@ lectures:
       - section: Fundamental
         name: "Auto-Encoding Variable Bayes"
         link: "https://arxiv.org/abs/1312.6114"
-        
+
     section:
     demos:
-  - topic: 
+  - topic:
     subtopic: Generative Adversarial Networks
     papers:
       - name: "GANs in 50 lines of code"
@@ -168,7 +173,7 @@ lectures:
         link: "https://arxiv.org/pdf/1701.00160.pdf"
   - topic: NLP Topics
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW3/">Translation</a> <a href="https://www.kaggle.com/c/cs287-hw3-s18">(Kaggle)</a>
-    subtopic: 
+    subtopic:
     papers:
   - topic: Guest Lecture (Structured Training for NMT)
     subtopic:
@@ -218,6 +223,6 @@ lectures:
   - topic: Interpretation
     subtopic:  Rationale Generation
   - topic: Final Presentation Talks (Evening)
-    subtopic:  
+    subtopic:
   - topic: Final Paper Due
-    subtopic:  
+    subtopic:
