@@ -127,6 +127,8 @@ lectures:
         link: "https://arxiv.org/pdf/1606.02960.pdf"
       - name: "Sequence-level Training with Recurrent Neural Networks"
         link: "https://arxiv.org/pdf/1511.06732.pdf"
+      - name: "Six Challenges for Neural Machine Translation"
+        link: "https://arxiv.org/pdf/1706.03872.pdf"
   - topic:
     hw:
     subtopic: REINFORCE
