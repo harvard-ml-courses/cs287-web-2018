@@ -173,7 +173,7 @@ lectures:
       - name: "NIPS 2016 GAN Tutorial"
         section: Tutorial
         link: "https://arxiv.org/pdf/1701.00160.pdf"
-  - topic: NLP Topics
+  - topic: NLP Topics 
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW3/Homework3.ipynb">Translation</a> <a href="https://www.kaggle.com/c/cs287-hw3-s18/">(Kaggle)</a>
     subtopic:
     papers:
@@ -183,8 +183,8 @@ lectures:
   - topic: Midterm
     subtopic:
     hw:
-  - topic: Latent Variable Models
-    subtopic: Sequence VAEs
+  - topic: Projects 
+    subtopic: Discussion
     papers:
       - name: "Generating Sentences from a Continuous Space"
         link: "https://arxiv.org/pdf/1511.06349.pdf"
@@ -203,12 +203,12 @@ lectures:
         link: "https://arxiv.org/pdf/1609.09869.pdf"
       - name: "Composing graphical models with neural networks for structured representations and fast inference"
         link: "https://arxiv.org/pdf/1603.06277.pdf"
-    hw: Final Project Topics
+    hw: Final Project Topics/Abstracts
   - topic: Discrete Variables
     subtopic: REINFORCE for text
   - topic:
     subtopic: Discrete VAEs
-    hw: Project Abstract Due
+    hw: 
   - topic: Dynamic Networks
     subtopic: Training with Search
   - topic:
