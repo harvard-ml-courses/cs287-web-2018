@@ -174,7 +174,7 @@ lectures:
         section: Tutorial
         link: "https://arxiv.org/pdf/1701.00160.pdf"
   - topic: NLP Topics
-    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW3/">Translation</a> <a href="https://www.kaggle.com/c/cs287-hw3-s18">(Kaggle)</a>
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW3/Homework3.ipynb">Translation</a> <a href="https://www.kaggle.com/c/cs287-hw3-s18/">(Kaggle)</a>
     subtopic:
     papers:
   - topic: Guest Lecture (Structured Training for NMT)
