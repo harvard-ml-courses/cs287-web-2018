@@ -203,7 +203,7 @@ lectures:
         link: "midterm.pdf"
     hw:
   - topic: Projects
-    subtopic: "<a href='tinyurl.com/srush-schedule'>Discussion Sign-up 11am-3pm</a>"
+    subtopic: "<a href=\"http://tinyurl.com/srush-schedule\">Discussion Sign-up 11am-3pm</a>"
     papers:
   - topic:
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW4/">VI</a> <a href="https://www.kaggle.com/c/cs287-hw4-s18">(Kaggle)</a>
