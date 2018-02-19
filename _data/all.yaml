@@ -127,8 +127,6 @@ lectures:
         link: "https://arxiv.org/pdf/1606.02960.pdf"
       - name: "Sequence-level Training with Recurrent Neural Networks"
         link: "https://arxiv.org/pdf/1511.06732.pdf"
-      - name: "Six Challenges for Neural Machine Translation"
-        link: "https://arxiv.org/pdf/1706.03872.pdf"
   - topic:
     hw:
     subtopic: REINFORCE
@@ -173,17 +171,35 @@ lectures:
       - name: "NIPS 2016 GAN Tutorial"
         section: Tutorial
         link: "https://arxiv.org/pdf/1701.00160.pdf"
-  - topic: NLP Topics 
+  - topic: NLP Topics
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW3/Homework3.ipynb">Translation</a> <a href="https://www.kaggle.com/c/cs287-hw3-s18/">(Kaggle)</a>
-    subtopic:
+    subtopic: Problem and Datasets
     papers:
+      - section: Summary
+        name: Get to the Point
+        link: "https://arxiv.org/abs/1704.04368"
+      - section: Data-to-Text
+        name: E2E Data Challenge
+        link: "https://arxiv.org/pdf/1706.09254.pdf"
+      - section: Translation
+        name: "Six Challenges for Neural Machine Translation"
+        link: "https://arxiv.org/pdf/1706.03872.pdf"
+      - section: Dialogue
+        name: Ubuntu Dataset
+        link: "https://arxiv.org/abs/1506.08909"
+      - section: VAEs
+        name: "VAEs with Yahoo Answers"
+        link: "https://arxiv.org/pdf/1706.09254.pdf"
+      - section: QA
+        name: SQuAD
+        link: "https://arxiv.org/pdf/1606.05250"
   - topic: Guest Lecture (Structured Training for NMT)
     subtopic:
     hw:
   - topic: Midterm
     subtopic:
     hw:
-  - topic: Projects 
+  - topic: Projects
     subtopic: Discussion
     papers:
       - name: "Generating Sentences from a Continuous Space"
@@ -208,7 +224,7 @@ lectures:
     subtopic: REINFORCE for text
   - topic:
     subtopic: Discrete VAEs
-    hw: 
+    hw:
   - topic: Dynamic Networks
     subtopic: Training with Search
   - topic:
