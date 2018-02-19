@@ -198,6 +198,9 @@ lectures:
     hw:
   - topic: Midterm
     subtopic:
+    papers:
+      - name: Guide
+        link: "midterm.pdf"
     hw:
   - topic: Projects
     subtopic: Discussion
