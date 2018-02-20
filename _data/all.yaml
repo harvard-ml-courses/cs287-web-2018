@@ -193,8 +193,8 @@ lectures:
       - section: QA
         name: SQuAD
         link: "https://arxiv.org/pdf/1606.05250"
-  - topic: Guest Lecture (Structured Training for NMT)
-    subtopic:
+  - topic: "Guest Lecture - Marc'Aurelio Renzato (Facebook)"
+    subtopic: "Structured Training for NMT -  MD G125 4pm "
     hw:
   - topic: Midterm
     subtopic:
