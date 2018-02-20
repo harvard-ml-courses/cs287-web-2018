@@ -212,16 +212,6 @@ lectures:
   - topic:
     subtopic: Structured VAEs
     papers:
-      - name: "Structured Inference Networks for Nonlinear State Space Models"
-        link: "https://arxiv.org/pdf/1609.09869.pdf"
-      - name: "Composing graphical models with neural networks for structured representations and fast inference"
-        link: "https://arxiv.org/pdf/1603.06277.pdf"
-      - name: "Generating Sentences from a Continuous Space"
-        link: "https://arxiv.org/pdf/1511.06349.pdf"
-      - name: "A Recurrent Latent Variable Model for Sequential Data"
-        link: "http://papers.nips.cc/paper/5653-a-recurrent-latent-variable-model-for-sequential-data.pdf"
-      - name: "Improved Variational Autoencoders for Text Modeling using Dilated Convolutions"
-        link: "https://arxiv.org/pdf/1702.08139.pdf"
     hw: Final Project Topics/Abstracts
   - topic: Discrete Variables
     subtopic: REINFORCE for text
@@ -247,3 +237,14 @@ lectures:
     subtopic:
   - topic: Final Paper Due
     subtopic:
+
+            # - name: "Structured Inference Networks for Nonlinear State Space Models"
+      #   link: "https://arxiv.org/pdf/1609.09869.pdf"
+      # - name: "Composing graphical models with neural networks for structured representations and fast inference"
+      #   link: "https://arxiv.org/pdf/1603.06277.pdf"
+      # - name: "Generating Sentences from a Continuous Space"
+      #   link: "https://arxiv.org/pdf/1511.06349.pdf"
+      # - name: "A Recurrent Latent Variable Model for Sequential Data"
+      #   link: "http://papers.nips.cc/paper/5653-a-recurrent-latent-variable-model-for-sequential-data.pdf"
+      # - name: "Improved Variational Autoencoders for Text Modeling using Dilated Convolutions"
+      #   link: "https://arxiv.org/pdf/1702.08139.pdf"
