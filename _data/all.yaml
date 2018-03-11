@@ -216,12 +216,12 @@ lectures:
   - topic:
     subtopic: Structured VAEs
     papers:
-    hw: Final Project Topics/Abstracts
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/abstracts/">Final Project Abstracts</a>
   - topic: Discrete Variables
     subtopic: REINFORCE for text
   - topic:
     subtopic: Discrete VAEs
-    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW4/">VI</a> 
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW4/">Latent Variables</a> 
   - topic: Dynamic Networks
     subtopic: Training with Search
     hw: 
