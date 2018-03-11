@@ -221,7 +221,7 @@ lectures:
     subtopic: REINFORCE for text
   - topic:
     subtopic: Discrete VAEs
-    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW4/">Latent Variables</a> 
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW4/Homework4.ipynb">Latent Variables</a> 
   - topic: Dynamic Networks
     subtopic: Training with Search
     hw: 
