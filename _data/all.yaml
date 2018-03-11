@@ -210,7 +210,7 @@ lectures:
       - name: Project Ideas
         link: "https://docs.google.com/spreadsheets/d/18Ga16YxszFA9FnE6f_v65Nmn2_z15HcVn9KIa6nlQKk/edit?usp=sharing"
   - topic:
-    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW4/">VI</a> <a href="https://www.kaggle.com/c/cs287-hw4-s18">(Kaggle)</a>
+    hw: 
     subtopic: Sampling Improvements
     papers:
   - topic:
@@ -221,9 +221,10 @@ lectures:
     subtopic: REINFORCE for text
   - topic:
     subtopic: Discrete VAEs
-    hw:
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/HW4/">VI</a> 
   - topic: Dynamic Networks
     subtopic: Training with Search
+    hw: 
   - topic:
     subtopic: Neural Module Networks
   - topic: NMT
