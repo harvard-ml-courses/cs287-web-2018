@@ -216,7 +216,7 @@ lectures:
   - topic:
     subtopic: Structured VAEs
     papers:
-    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/abstracts/">Final Project Abstracts</a>
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/projects/abstract.md">Final Project Abstracts</a>
   - topic: Discrete Variables
     subtopic: REINFORCE for text
   - topic:
