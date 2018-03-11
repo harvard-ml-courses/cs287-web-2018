@@ -211,33 +211,33 @@ lectures:
         link: "https://docs.google.com/spreadsheets/d/18Ga16YxszFA9FnE6f_v65Nmn2_z15HcVn9KIa6nlQKk/edit?usp=sharing"
   - topic:
     hw: 
-    subtopic: Sampling Improvements
+    subtopic: TDB
     papers:
-  - topic:
-    subtopic: Structured VAEs
+  - topic: Student Groups
+    subtopic: Theory Search
     papers:
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/projects/abstract.md">Final Project Abstracts</a>
   - topic: Discrete Variables
-    subtopic: REINFORCE for text
+    subtopic: Bias
   - topic:
-    subtopic: Discrete VAEs
+    subtopic: Image Captioning
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW4/Homework4.ipynb">Latent Variables</a> 
-  - topic: Dynamic Networks
-    subtopic: Training with Search
+  - topic: 
+    subtopic: GANs for MT
     hw: 
   - topic:
-    subtopic: Neural Module Networks
-  - topic: NMT
-    subtopic: Recent advances in NMT
+    subtopic: NLP / Social Science 
+  - topic: 
+    subtopic: Speech
   - topic:
-    subtopic: Unsupervised NMT
+    subtopic: TBD 
     hw:
-  - topic: Topics
-    subtopic: Latent Variable Models in Science
+  - topic: 
+    subtopic: Bio-NLP
   - topic:
-    subtopic:  Latent Variable Models in Vision
-  - topic: Interpretation
-    subtopic:  Rationale Generation
+    subtopic:  TBD
+  - topic: 
+    subtopic:  Conclusion
   - topic: Final Presentation Talks (Evening)
     subtopic:
   - topic: Final Paper Due
