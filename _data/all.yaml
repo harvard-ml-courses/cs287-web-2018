@@ -289,6 +289,7 @@ lectures:
         link: https://arxiv.org/pdf/1705.09655.pdf
   - topic: 
     subtopic:  Conclusion
+    papers:
       - name: Ask Me Anything: Free-form Visual Question Answering Based on Knowledge from External Sources
         link: https://arxiv.org/abs/1511.06973
   - topic: Final Presentation Talks (Evening)
