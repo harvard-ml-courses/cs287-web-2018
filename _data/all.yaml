@@ -220,7 +220,7 @@ lectures:
        - name: Neural IBM Model
          link: https://github.com/uva-slpl/nlp2/blob/gh-pages/resources/project_neuralibm/theory.ipynb
   - topic:
-    subtopic: Logic Programming / Differentiable Theory Search (Andres)
+    subtopic: Logic Programming / Differentiable Theory Search
     papers:
        - name: Modeling Semantic Cognition as Logical Dimensionality Reduction
          link: "https://cocolab.stanford.edu/papers/KatzEtAl2008-Cogsci.pdf"
@@ -246,45 +246,48 @@ lectures:
         link: https://arxiv.org/abs/1704.00051
         section: Speaker
   - topic:
-    subtopic: GANs for MT
+    subtopic: Unsupervised MT
     hw:
     papers:
       - name: Unsupervised  Machine Translation Using Monolingual Corpora Only
         link: https://arxiv.org/abs/1711.00043
-      - name: Sequential Regulatory Activity Prediction across Chromosomes with Convolutional Neural Networks
-        link: https://www.biorxiv.org/content/early/2018/03/22/161851
+      - name: Unsupervised Neural Machine Translation
+        link: https://arxiv.org/pdf/1710.11041.pdf
+
   - topic:
-    subtopic: NLP / Social Science
+    subtopic: Discrete GANs
     papers:
-      - name: End-to-end Neural Coreference Resolution
-        link: https://arxiv.org/abs/1707.07045
       - name: Wasserstein Auto-Encoders
         link: https://arxiv.org/abs/1711.01558
+      - name: Adversarially Regularized Autoencoders
+        link: https://arxiv.org/abs/1706.04223
   - topic:
     subtopic: Speech
     papers:
+      - name: Deep Speech 3
+        link: https://arxiv.org/abs/1710.07654
       - name: Learning latent representations for speech generation and transformation
         link: https://arxiv.org/abs/1704.04222
   - topic:
-    subtopic: TBD
+    subtopic: Neural Discourse and Pragmatics
     hw:
     papers:
       - name: Reasoning about Pragmatics with Neural Listeners and Speakers
         link: https://arxiv.org/pdf/1604.00562.pdf
-      - name: Adversarially Regularized Autoencoders
-        link: https://arxiv.org/abs/1706.04223
+      - name: End-to-end Neural Coreference Resolution
+        link: https://arxiv.org/abs/1707.07045
   - topic:
-    subtopic: Bio-NLP
+    subtopic: Reading Comp. / Summary
     papers:
       - name: Adversarial Examples for Evaluating Reading Comprehension Systems
         link: https://nlp.stanford.edu/pubs/jia2017adversarial.pdf
       - name: Neural Summarization by Extracting Sentences and Words
         link: https://arxiv.org/pdf/1603.07252.pdf
   - topic:
-    subtopic:  TBD
+    subtopic:  Bio / Style Transfer
     papers:
-      - name: Unsupervised Neural Machine Translation
-        link: https://arxiv.org/pdf/1710.11041.pdf
+      - name: Sequential Regulatory Activity Prediction across Chromosomes with Convolutional Neural Networks
+        link: https://www.biorxiv.org/content/early/2018/03/22/161851
       - name: Style Transfer from Non-Parallel Text by Cross-Alignment
         link: https://arxiv.org/pdf/1705.09655.pdf
   - topic:
