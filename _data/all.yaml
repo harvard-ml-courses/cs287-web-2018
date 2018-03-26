@@ -210,24 +210,24 @@ lectures:
       - name: Project Ideas
         link: "https://docs.google.com/spreadsheets/d/18Ga16YxszFA9FnE6f_v65Nmn2_z15HcVn9KIa6nlQKk/edit?usp=sharing"
   - topic: Student Groups
-    hw: 
+    hw:
     subtopic: Conditional VAEs (Justin, Yoon)
     papers:
        - name: Semi-Supervised Learning with Deep Generative Models
          link: https://arxiv.org/abs/1406.5298
        - name: Language as a Latent Variable
          link: https://arxiv.org/abs/1609.07317
-       - name: Neural IBM Model 
+       - name: Neural IBM Model
          link: https://github.com/uva-slpl/nlp2/blob/gh-pages/resources/project_neuralibm/theory.ipynb
-  - topic: 
+  - topic:
     subtopic: Logic Programming / Differentiable Theory Search (Andres)
-    papers:  
+    papers:
        - name: Modeling Semantic Cognition as Logical Dimensionality Reduction
          link: "https://cocolab.stanford.edu/papers/KatzEtAl2008-Cogsci.pdf"
        - name: Learning Explanatory Rules from Noisy Data
          link: "https://arxiv.org/abs/1711.04574"
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/projects/abstract.md">Final Project Abstracts</a>
-  - topic: 
+  - topic:
     subtopic: Model Bias / Variational NMT
     papers:
        - name: Man is to Computer Programmer as Woman is to Homemaker?
@@ -236,7 +236,7 @@ lectures:
          link: https://arxiv.org/abs/1605.07869
   - topic:
     subtopic: Image-to-Text / Text-to-Image
-    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW4/Homework4.ipynb">Latent Variables</a> 
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW4/Homework4.ipynb">Latent Variables</a>
     papers:
       - name: StackGAN++
         link: https://arxiv.org/pdf/1710.10916.pdf
@@ -245,35 +245,35 @@ lectures:
       - name: Reading Wikipedia to Answer Open-Domain Questions
         link: https://arxiv.org/abs/1704.00051
         section: Speaker
-  - topic: 
+  - topic:
     subtopic: GANs for MT
-    hw: 
+    hw:
     papers:
       - name: Unsupervised  Machine Translation Using Monolingual Corpora Only
         link: https://arxiv.org/abs/1711.00043
       - name: Sequential Regulatory Activity Prediction across Chromosomes with Convolutional Neural Networks
         link: https://www.biorxiv.org/content/early/2018/03/22/161851
   - topic:
-    subtopic: NLP / Social Science 
+    subtopic: NLP / Social Science
     papers:
-      - name: End-to-end Neural Coreference Resolution 
+      - name: End-to-end Neural Coreference Resolution
         link: https://arxiv.org/abs/1707.07045
       - name: Wasserstein Auto-Encoders
         link: https://arxiv.org/abs/1711.01558
-  - topic: 
+  - topic:
     subtopic: Speech
     papers:
       - name: Learning latent representations for speech generation and transformation
         link: https://arxiv.org/abs/1704.04222
   - topic:
-    subtopic: TBD 
+    subtopic: TBD
     hw:
     papers:
       - name: Reasoning about Pragmatics with Neural Listeners and Speakers
         link: https://arxiv.org/pdf/1604.00562.pdf
       - name: Adversarially Regularized Autoencoders
         link: https://arxiv.org/abs/1706.04223
-  - topic: 
+  - topic:
     subtopic: Bio-NLP
     papers:
       - name: Adversarial Examples for Evaluating Reading Comprehension Systems
@@ -287,10 +287,10 @@ lectures:
         link: https://arxiv.org/pdf/1710.11041.pdf
       - name: Style Transfer from Non-Parallel Text by Cross-Alignment
         link: https://arxiv.org/pdf/1705.09655.pdf
-  - topic: 
+  - topic:
     subtopic:  Conclusion
     papers:
-      - name: Ask Me Anything: Free-form Visual Question Answering Based on Knowledge from External Sources
+      - name: "Ask Me Anything"
         link: https://arxiv.org/abs/1511.06973
   - topic: Final Presentation Talks (Evening)
     subtopic:
