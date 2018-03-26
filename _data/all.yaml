@@ -227,11 +227,24 @@ lectures:
        - name: Learning Explanatory Rules from Noisy Data
          link: "https://arxiv.org/abs/1711.04574"
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/projects/abstract.md">Final Project Abstracts</a>
-  - topic: Discrete Variables
-    subtopic: Bias
+  - topic: 
+    subtopic: Model Bias / Variational NMT
+    papers:
+       - name: Man is to Computer Programmer as Woman is to Homemaker?
+         link: https://arxiv.org/abs/1607.06520
+       - name: Variational Neural Machine Translation
+         link: https://arxiv.org/abs/1605.07869
   - topic:
-    subtopic: Image Captioning
+    subtopic: Image-to-Text / Text-to-Image
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW4/Homework4.ipynb">Latent Variables</a> 
+    papers:
+      - name: StackGAN++
+        link: https://arxiv.org/pdf/1710.10916.pdf
+      - name: A Hierarchical Approach for Generating Descriptive Image Paragraphs
+        link: https://arxiv.org/abs/1611.06607
+      - name: Reading Wikipedia to Answer Open-Domain Questions
+        link: https://arxiv.org/abs/1704.00051
+        section: Speaker
   - topic: 
     subtopic: GANs for MT
     hw: 
