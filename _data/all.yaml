@@ -248,19 +248,49 @@ lectures:
   - topic: 
     subtopic: GANs for MT
     hw: 
+    papers:
+      - name: Unsupervised  Machine Translation Using Monolingual Corpora Only
+        link: https://arxiv.org/abs/1711.00043
+      - name: Sequential Regulatory Activity Prediction across Chromosomes with Convolutional Neural Networks
+        link: https://www.biorxiv.org/content/early/2018/03/22/161851
   - topic:
     subtopic: NLP / Social Science 
+    papers:
+      - name: End-to-end Neural Coreference Resolution 
+        link: https://arxiv.org/abs/1707.07045
+      - name: Wasserstein Auto-Encoders
+        link: https://arxiv.org/abs/1711.01558
   - topic: 
     subtopic: Speech
+    papers:
+      - name: Learning latent representations for speech generation and transformation
+        link: https://arxiv.org/abs/1704.04222
   - topic:
     subtopic: TBD 
     hw:
+    papers:
+      - name: Reasoning about Pragmatics with Neural Listeners and Speakers
+        link: https://arxiv.org/pdf/1604.00562.pdf
+      - name: Adversarially Regularized Autoencoders
+        link: https://arxiv.org/abs/1706.04223
   - topic: 
     subtopic: Bio-NLP
+    papers:
+      - name: Adversarial Examples for Evaluating Reading Comprehension Systems
+        link: https://nlp.stanford.edu/pubs/jia2017adversarial.pdf
+      - name: Neural Summarization by Extracting Sentences and Words
+        link: https://arxiv.org/pdf/1603.07252.pdf
   - topic:
     subtopic:  TBD
+    papers:
+      - name: Unsupervised Neural Machine Translation
+        link: https://arxiv.org/pdf/1710.11041.pdf
+      - name: Style Transfer from Non-Parallel Text by Cross-Alignment
+        link: https://arxiv.org/pdf/1705.09655.pdf
   - topic: 
     subtopic:  Conclusion
+      - name: Ask Me Anything: Free-form Visual Question Answering Based on Knowledge from External Sources
+        link: https://arxiv.org/abs/1511.06973
   - topic: Final Presentation Talks (Evening)
     subtopic:
   - topic: Final Paper Due
