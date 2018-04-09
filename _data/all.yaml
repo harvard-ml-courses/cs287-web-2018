@@ -264,8 +264,10 @@ lectures:
   - topic:
     subtopic: Speech
     papers:
-      - name: Deep Speech 3
+      - name: Deep Voice 3
         link: https://arxiv.org/abs/1710.07654
+      - name: Deep Speech 2
+        link: https://arxiv.org/pdf/1512.02595.pdf
       - name: Learning latent representations for speech generation and transformation
         link: https://arxiv.org/abs/1704.04222
   - topic:
