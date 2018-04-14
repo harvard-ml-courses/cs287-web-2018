@@ -283,8 +283,8 @@ lectures:
     papers:
       - name: Adversarial Examples for Evaluating Reading Comprehension Systems
         link: https://nlp.stanford.edu/pubs/jia2017adversarial.pdf
-      - name: "Get to the point: Summarization with Pointer-Generator Networks"
-        link: https://nlp.stanford.edu/pubs/see2017get.pdf
+      - name: Neural Summarization by Extracting Sentences and Words
+        link: https://arxiv.org/abs/1603.07252
   - topic:
     subtopic:  Bio / Style Transfer
     papers:
