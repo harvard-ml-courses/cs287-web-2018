@@ -295,8 +295,10 @@ lectures:
   - topic:
     subtopic:  Conclusion
     papers:
-      - name: "Ask Me Anything"
-        link: https://arxiv.org/abs/1511.06973
+      - name: "MUTAN: Multimodal Tucker Fusion for Visual Question Answering"
+        link: https://arxiv.org/abs/1705.06676
+      - name: "Hierarchical Question-Image Co-Attention for Visual Question Answering"
+        link: http://papers.nips.cc/paper/6202-hierarchical-question-image-co-attention-for-visual-question-answering.pdf       
   - topic: Final Presentation Talks (Evening)
     subtopic:
   - topic: Final Paper Due
